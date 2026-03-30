@@ -25,6 +25,16 @@
 
 ---
 
+🔥 Active Directory Attack Lab
+
+- Executed Pass-the-Hash attacks and credential dumping (SAM, LSA secrets)
+- Performed lateral movement across domain systems via SMB
+- Achieved Domain Admin access and established persistence
+
+👉 "View Project" (https://github.com/KamalKushwaha1/project-name)
+
+---
+
 ⚔️ Adversarial Machine Learning Project
 
 - Implementation of FGSM attack
