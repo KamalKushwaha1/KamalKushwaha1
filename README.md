@@ -21,7 +21,7 @@
 - Includes data preprocessing and feature analysis
 - Focus on practical cybersecurity applications
 
-👉 "View Project" (https://github.com/YOUR_USERNAME/project-name)
+👉 "View Project" (https://github.com/KamalKushwaha1/project-name)
 
 ---
 
