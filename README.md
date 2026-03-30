@@ -31,7 +31,7 @@
 - Performed lateral movement across domain systems via SMB
 - Achieved Domain Admin access and established persistence
 
-👉 "View Project" (https://github.com/KamalKushwaha1/project-name)
+👉 "View Project" (https://github.com/KamalKushwaha1/Active-Directory-Attack-Lab)
 
 ---
 
